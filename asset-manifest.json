@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rrmsoft/static/css/main.79da4e02.css",
-    "main.js": "/rrmsoft/static/js/main.7e24d505.js",
+    "main.css": "/rrmsoft/static/css/main.2fba6a2e.css",
+    "main.js": "/rrmsoft/static/js/main.0003d153.js",
     "index.html": "/rrmsoft/index.html",
-    "main.79da4e02.css.map": "/rrmsoft/static/css/main.79da4e02.css.map",
-    "main.7e24d505.js.map": "/rrmsoft/static/js/main.7e24d505.js.map"
+    "main.2fba6a2e.css.map": "/rrmsoft/static/css/main.2fba6a2e.css.map",
+    "main.0003d153.js.map": "/rrmsoft/static/js/main.0003d153.js.map"
   },
   "entrypoints": [
-    "static/css/main.79da4e02.css",
-    "static/js/main.7e24d505.js"
+    "static/css/main.2fba6a2e.css",
+    "static/js/main.0003d153.js"
   ]
 }
