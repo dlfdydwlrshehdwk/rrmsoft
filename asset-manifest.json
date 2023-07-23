@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kdh/static/css/main.d8c456f4.css",
-    "main.js": "/kdh/static/js/main.cfe4b66d.js",
-    "index.html": "/kdh/index.html",
-    "main.d8c456f4.css.map": "/kdh/static/css/main.d8c456f4.css.map",
-    "main.cfe4b66d.js.map": "/kdh/static/js/main.cfe4b66d.js.map"
+    "main.css": "/rrmsoft/static/css/main.d8c456f4.css",
+    "main.js": "/rrmsoft/static/js/main.cfe4b66d.js",
+    "index.html": "/rrmsoft/index.html",
+    "main.d8c456f4.css.map": "/rrmsoft/static/css/main.d8c456f4.css.map",
+    "main.cfe4b66d.js.map": "/rrmsoft/static/js/main.cfe4b66d.js.map"
   },
   "entrypoints": [
     "static/css/main.d8c456f4.css",
